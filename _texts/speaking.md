@@ -1,11 +1,13 @@
 ---
 layout: poem
 title: speaking
---
---
---
-## invited lectures
+
+
+
+
+<p class="centered">## invited lectures
 ---
+
 - “The Long Arcs of Ambedkar’s Buddhism.”*Ambedkar’s Religion*. Columbia University/Union Theological Seminary, October 2023. New York, NY.
 
 - “Marks of the Pen: Bodily Branding and Scholarly Practice in Early Modern South Asia.” The Parekh Institute of Indian Thought, Centre for the Study of Developing Societies, July 2023. New Delhi, India.
@@ -21,7 +23,7 @@ title: speaking
 - "*Veda-Viplāvanam*, or How to Break the Rules in Early Modern Vedānta.” *Age of Vedānta Research Group.* Stanford University, November, 2019. Stanford, CA.
 
 - "*Khaṇḍana, Bhañjana, Dhikkāra*: Rhetorics of Religious Controversy in early-modern India.” *Institut Français de Pondichéry*, November 2018. Puducherry, India.
---
---
---
-## select conference papers
+
+
+
+<p class="centered">## select conference papers
