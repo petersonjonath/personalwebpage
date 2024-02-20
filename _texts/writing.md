@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: articles
+title: writing
 ---
 
 ## monographs
