@@ -1,9 +1,9 @@
 ---
 layout: poem
 title: speaking
----
----
----
+--
+--
+--
 ## invited lectures
 ---
 - “The Long Arcs of Ambedkar’s Buddhism.”*Ambedkar’s Religion*. Columbia University/Union Theological Seminary, October 2023. New York, NY.
@@ -18,10 +18,10 @@ title: speaking
 
 - “The Limits of Exegesis in Early Modern South Asia.” *Practices of Commentary Collaborative Research Group*. University of Toronto, January, 2021. Toronto, ON.
 
-- "‘*Veda-Viplāvanam*,’ or How to Break the Rules in Early Modern Vedānta.” *Age of Vedānta Research Group.* Stanford University, November, 2019. Stanford, CA.
+- "*Veda-Viplāvanam*, or How to Break the Rules in Early Modern Vedānta.” *Age of Vedānta Research Group.* Stanford University, November, 2019. Stanford, CA.
 
-- "'*Khaṇḍana, Bhañjana, Dhikkāra*:' Rhetoric and Critique in Early Modern Sanskrit.” Institut Français de Pondichéry, November 2018. Puducherry, India.
----
----
----
+- "*Khaṇḍana, Bhañjana, Dhikkāra*: Rhetorics of Religious Controversy in early-modern India.” *Institut Français de Pondichéry*, November 2018. Puducherry, India.
+--
+--
+--
 ## select conference papers
