@@ -4,14 +4,13 @@
 title:               Jonathan Peterson
 tagline:             'assistant professor of Sanskrit and premodern south asia'
 description:         'department of middle eastern, south asian, and african studies, columbia university.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Jonathan Peterson
+  url:               https://mesaas.columbia.edu/faculty-directory/jonathan-peterson/
+  email:             jp4536@columbia.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
