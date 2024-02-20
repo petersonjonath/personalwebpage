@@ -5,7 +5,7 @@ title: speaking
 
 
 
-<p class="centered"> ## invited lectures
+## invited lectures
 ---
 
 - “The Long Arcs of Ambedkar’s Buddhism.”*Ambedkar’s Religion*. Columbia University/Union Theological Seminary, October 2023. New York, NY.
@@ -26,4 +26,4 @@ title: speaking
 
 
 
-<p class="centered"> ## select conference papers
+## select conference papers
