@@ -4,7 +4,7 @@ title: About
 ---
 
 Jonathan Peterson is assistant professor of Sanskrit and premodern South Asia in the Department of Middle Eastern, South Asian, and African
-Studies [MESAAS](https://mesaas.columbia.edu/) at Columbia University. Before joining MESAAS he taught at Stanford University and at 
+Studies [MESAAS](https://mesaas.columbia.edu/) at Columbia University. Before joining MESAAS, he taught at Stanford University and at 
 the University of Toronto, where he completed his PhD in 2021. Jonathan is a scholar of Sanskrit literature and philosophy and an intellectual
 historian of religion in premodern South Asia. He works closely with several areas of Sanskrit learning, including Vedanta, linguistics,
 epistemology, and poetics, and he has broader interests in Indo-Persian and Marathi literature, and the cultural history of Persianate Deccan.
