@@ -7,25 +7,25 @@ title: Talks
 invited lectures
 ---
 
-“The Long Arcs of Ambedkar’s Buddhism.”*Ambedkar’s Religion*. Columbia University/Union Theological Seminary, October 2023. New York, NY.
+“The Long Arcs of Ambedkar’s Buddhism.”*Ambedkar’s Religion*. Columbia University/Union Theological Seminary. New York, NY. 2023.
 
 “Marks of the Pen: Bodily Branding and Scholarly Practice in Early Modern South Asia.” The Parekh Institute of Indian Thought, Centre for the
-Study of Developing Societies, July 2023. New Delhi, India.
+Study of Developing Societies. New Delhi, India. 2023.
 
-“Courtly Debate and its Discontents.” *Age of Vedānta Research Group*. University of Chicago, October 2022. Chicago, IL.
+“Courtly Debate and its Discontents.” *Age of Vedānta Research Group*. University of Chicago. Chicago, IL. 2023.
 
-“An Ocean at River’s Edge: Reading the Vedas in Eighteenth Century Pandharpur.” Hebrew University of Jerusalem, August, 2022.
+“An Ocean at River’s Edge: Reading the Vedas in Eighteenth Century Pandharpur.” Hebrew University of Jerusalem. 2022.
 
-“Polemics and Power in Early Modern South Asia.” Stanford University, April, 2022. Stanford, CA.
+“Polemics and Power in Early Modern South Asia.” Stanford University. Stanford, CA. 2022.
 
-“The Limits of Exegesis in Early Modern South Asia.” *Practices of Commentary Collaborative Research Group*. University of Toronto, January,
-2021. Toronto, ON.
+“The Limits of Exegesis in Early Modern South Asia.” *Practices of Commentary Collaborative Research Group*. University of Toronto. Toronto, ON.
+2020.
 
-"*Veda-Viplāvanam*, or How to Break the Rules in Early Modern Vedānta.” *Age of Vedānta Research Group.* Stanford University, November, 2019.
-Stanford, CA.
+"*Veda-Viplāvanam*, or How to Break the Rules in Early Modern Vedānta.” *Age of Vedānta Research Group.* Stanford University. Stanford, CA. 
+2019.
 
-"*Khaṇḍana, Bhañjana, Dhikkāra*: Rhetorics of Religious Controversy in early-modern India.” *Institut Français de Pondichéry*, November 2018.
-Puducherry, India.
+"*Khaṇḍana, Bhañjana, Dhikkāra*: Rhetorics of Religious Controversy in early-modern India.” *Institut Français de Pondichéry*. Puducherry, 
+India. 2018.
 
 
 ---
