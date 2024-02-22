@@ -5,8 +5,9 @@ title: Talks
 
 ---
 <center>invited lectures</center>
--
--
+
+
+
 “The Long Arcs of Ambedkar’s Buddhism.”*Ambedkar’s Religion*. Columbia University/Union Theological Seminary. New York, NY. 2023.
 
 “Marks of the Pen: Bodily Branding and Scholarly Practice in Early Modern South Asia.” The Parekh Institute of Indian Thought, Centre for the
@@ -30,8 +31,9 @@ India. 2018.
 
 ---
 <center>conference papers</center>
--
--
+
+
+
 “The Poetics of Interreligious Love in Mughal Benares.” 51st Annual Conference on South Asia. Madison, WI. 2023.
 
 “The Poetics of Interreligious Love in Mughal Benares.” 233rd Annual Meeting of the AOS. Los Angelas, CA. 2023.
