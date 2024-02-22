@@ -7,7 +7,7 @@ title: Talks
 <center> invited lectures </center>
 ---
 
--“The Long Arcs of Ambedkar’s Buddhism.”*Ambedkar’s Religion*. Columbia University/Union Theological Seminary, October 2023. New York, NY.
+- “The Long Arcs of Ambedkar’s Buddhism.”*Ambedkar’s Religion*. Columbia University/Union Theological Seminary, October 2023. New York, NY.
 
 -“Marks of the Pen: Bodily Branding and Scholarly Practice in Early Modern South Asia.” The Parekh Institute of Indian Thought, Centre for the Study of Developing Societies, July 2023. New Delhi, India.
 
