@@ -4,14 +4,14 @@ title: Writing
 ---
 
 ---
-##monographs
+## monographs
 ---
 
 
 *Polemic and Authority in Early Modern South Asia*. (in progress)
 
 ---
-##refereed journal articles
+## refereed journal articles
 ---
 
 
@@ -49,7 +49,7 @@ Asian Intellectual History* 1, no. 2 (2018). [155–182](https://brill.com/view/
 
 
 ---
-##refereed book chapters
+## refereed book chapters
 ---
 
 “Courtly Debate in History and Memory.” In *The Age of Vedānta*, edited by Lawrence McCrea and Ajay Rao. (forthcoming)
