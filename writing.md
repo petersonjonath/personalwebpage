@@ -4,14 +4,14 @@ title: Writing
 ---
 
 ---
-<center>monographs</center>
+##monographs
 ---
 
 
 *Polemic and Authority in Early Modern South Asia*. (in progress)
 
 ---
-<center>refereed journal articles</center>
+##refereed journal articles
 ---
 
 
@@ -49,14 +49,14 @@ Asian Intellectual History* 1, no. 2 (2018). [155–182](https://brill.com/view/
 
 
 ---
-<center>refereed book chapters</center>
+##refereed book chapters
 ---
 
 “Courtly Debate in History and Memory.” In *The Age of Vedānta*, edited by Lawrence McCrea and Ajay Rao. (forthcoming)
 
 
 ---
-<center>book reviews</center>
+##book reviews
 ---
 
 Review of *The Language of History: Sanskrit Narratives of Indo-Muslim Rule*, by Audrey Truschke. *Journal 
