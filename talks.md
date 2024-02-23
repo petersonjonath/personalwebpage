@@ -4,7 +4,7 @@ title: Talks
 ---
 
 ---
-<center># invited lectures</center>
+# invited lectures
 ---
 
 
@@ -30,7 +30,7 @@ India. 2018.
 
 
 ---
-<center>#conference papers</center>
+# conference papers
 ---
 
 
