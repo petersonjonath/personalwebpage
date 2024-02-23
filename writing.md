@@ -56,7 +56,7 @@ Asian Intellectual History* 1, no. 2 (2018). [155–182](https://brill.com/view/
 
 
 ---
-##book reviews
+## book reviews
 ---
 
 Review of *The Language of History: Sanskrit Narratives of Indo-Muslim Rule*, by Audrey Truschke. *Journal 
