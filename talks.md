@@ -7,6 +7,7 @@ title: Talks
 ## invited lectures
 ---
 
+"The Literary Underground of Mughal Benares: Love and other Cross-Cultural Conversations in Persian and Sanskrit." Department of Religious Studies, Yale University. 2024.
 
 “The Long Arcs of Ambedkar’s Buddhism.”*Ambedkar’s Religion*. Columbia University/Union Theological Seminary. New York, NY. 2023.
 
@@ -19,20 +20,18 @@ Study of Developing Societies. New Delhi, India. 2023.
 
 “Polemics and Power in Early Modern South Asia.” Stanford University. Stanford, CA. 2022.
 
-“The Limits of Exegesis in Early Modern South Asia.” *Practices of Commentary Collaborative Research Group*. University of Toronto. Toronto, ON.
-2020.
+“The Limits of Exegesis in Early Modern South Asia.” *Practices of Commentary Collaborative Research Group*. University of Toronto. Toronto, ON. 2020.
 
-"*Veda-Viplāvanam*, or How to Break the Rules in Early Modern Vedānta.” *Age of Vedānta Research Group.* Stanford University. Stanford, CA. 
-2019.
+"*Veda-Viplāvanam*, or How to Break the Rules in Early Modern Vedānta.” *Age of Vedānta Research Group.* Stanford University. Stanford, CA. 2019.
 
-"*Khaṇḍana, Bhañjana, Dhikkāra*: Rhetorics of Religious Controversy in early-modern India.” *Institut Français de Pondichéry*. Puducherry, 
-India. 2018.
+"*Khaṇḍana, Bhañjana, Dhikkāra*: Rhetorics of Religious Controversy in early-modern India.” Institut Français de Pondichéry. Puducherry, India. 2018.
 
 
 ---
 ## conference papers
 ---
 
+"Reflections on the Yathoddeśa and Kāryakāla Problem in Sanskrit Linguistics." 234th Annual Meeting of the AOS. Chicago, IL. 2024. 
 
 “The Poetics of Interreligious Love in Mughal Benares.” 51st Annual Conference on South Asia. Madison, WI. 2023.
 
