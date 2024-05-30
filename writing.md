@@ -19,12 +19,10 @@ title: Writing
 
 “The Loves of Others: The Poetics of Hindu-Muslim Romance in Mughal Benares.” (in progress)
 
-"The Long Shadow of Sāyaṇa: Reading the *Ṛg Veda* in Eighteenth Century Pandharpur.” (in progress)
-
 “Hermeneutics of Hierarchy: Taptamudrā and the Question of Śūdra Liberation.” *New Explorations in South 
 Asian Research.* (under review)
 
-"Vyāsa’s Body, or a Prehistory of Religious Conflict in the Deccan,” *New Explorations in South Asian 
+"Desecrating the Divine: Vyāsa’s Body between Polemic and Procession,” *New Explorations in South Asian 
 Research*. (forthcoming)
 
 “Branding and the Order of Texts and Bodies in Medieval South India.” *Journal of Hindu Studies.* [(2024)](https://academic.oup.com/jhs/advance-article-abstract/doi/10.1093/jhs/hiad033/7609621?redirectedFrom=fulltext)
