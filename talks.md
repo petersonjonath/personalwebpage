@@ -7,7 +7,9 @@ title: Talks
 ## invited lectures
 ---
 
-"Love and other Conversations in Persian and Sanskrit." Department of Religious Studies, Yale University. 2024.
+"Disfiguring the Divine: Vyāsa's Body between Polemic and Procession." University Seminar on Writing and Religion, Columbia University. 2024.
+
+"Love and other Cross-Cultural Conversations in Persian and Sanskrit." Department of Religious Studies, Yale University. 2024.
 
 “The Long Arcs of Ambedkar’s Buddhism.”*Ambedkar’s Religion*. Columbia University/Union Theological Seminary. New York, NY. 2023.
 
