@@ -33,6 +33,8 @@ Study of Developing Societies. New Delhi, India. 2023.
 ## conference papers
 ---
 
+"The Literary Underground of Mughal Benares." 52nd Annual Conference on South Asia. Madison, WI. 2024.
+
 "Reflections on the Yathoddeśa and Kāryakāla Problem in Sanskrit Linguistics." 234th Annual Meeting of the AOS. Chicago, IL. 2024. 
 
 “The Poetics of Interreligious Love in Mughal Benares.” 51st Annual Conference on South Asia. Madison, WI. 2023.
