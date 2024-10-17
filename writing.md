@@ -15,8 +15,6 @@ title: Writing
 ---
 
 
-“Death and Deep Reading: The Controversy of Kāśīmaraṇa.” (in progress)
-
 “The Loves of Others: The Poetics of Hindu-Muslim Romance in Mughal Benares.” (in progress)
 
 “Hermeneutics of Hierarchy: Taptamudrā and the Question of Śūdra Liberation.” *New Explorations in South 
