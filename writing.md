@@ -40,7 +40,7 @@ Philosophy* 48, no. 1 (2020). [1–7](https://link.springer.com/article/10.1007/
 “The Language of Legitimacy and Decline: Grammar and the Recovery of Vedānta in Bhaṭṭoji Dīkṣita’s 
 *Tattvakaustubha*.” *Journal of Indian Philosophy* 48, no. 1 (2019). [23–47](https://link.springer.com/article/10.1007/s10781-019-09406-0).
 
-“From Adam to ʿĀdil Shāh: Rethinking Religious Encounter in the Tārīkh-i Firishteh.” *Journal of South 
+“From Adam to ʿĀdil Shāh: Rethinking Religious Encounter in the *Tārīkh-i Firishteh*.” *Journal of South 
 Asian Intellectual History* 1, no. 2 (2018). [155–182](https://brill.com/view/journals/saih/1/2/article-p155_2.xml).
 
 
