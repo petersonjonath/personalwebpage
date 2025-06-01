@@ -7,6 +7,8 @@ title: Talks
 ## invited lectures
 ---
 
+"Philology for the Living and the Dead." University Seminar on World Philology. Columbia University. 2025.
+
 "Disfiguring the Divine: Vyāsa's Body between Polemic and Procession." University Seminar on Writing and Religion, Columbia University. 2024.
 
 "Love and other Cross-Cultural Conversations in Persian and Sanskrit." Department of Religious Studies, Yale University. 2024.
