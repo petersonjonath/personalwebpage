@@ -8,7 +8,7 @@ title: Writing
 ---
 
 
-*Weight of the Word: Polemic and Authority in Early Modern South Asia*. (in progress)
+*Polemic and Authority in Early Modern South Asia*. (in progress)
 
 ---
 ## refereed journal articles
