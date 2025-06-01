@@ -35,6 +35,8 @@ Study of Developing Societies. New Delhi, India. 2023.
 ## conference papers
 ---
 
+“Memory, Conflict, Authority: Kumārila on Smṛtiprāmāṇya.” 2nd Annual Conference on Kumārila. University of Toronto. Toronto, ON. 2025.
+
 "The Literary Underground of Mughal Benares." 52nd Annual Conference on South Asia. Madison, WI. 2024.
 
 "Reflections on the Yathoddeśa and Kāryakāla Problem in Sanskrit Linguistics." 234th Annual Meeting of the AOS. Chicago, IL. 2024. 
@@ -45,17 +47,13 @@ Study of Developing Societies. New Delhi, India. 2023.
 
 “The Grammar of Devotion: Kāśīnātha Upādhyāya’s *Viṭṭhalarṅmantrasārabhāṣya.*” 232nd Annual Meeting of the AOS, 2022. Boston, MA.
 
-“Branding the Sensuous Body: Taptamudrā and Material Practice in Early Modern South Asia.” *Vaiṣṇava Material Culture,* University of Toronto.
-Toronto, ON. 2021.
+“Branding the Sensuous Body: Taptamudrā and Material Practice in Early Modern South Asia.” *Vaiṣṇava Material Culture,* University of Toronto. Toronto, ON. 2021.
 
-“Vedānta Commentaries: Between Continuity and Contemporary Practice,” with Elisa Freschi and Ajay Rao. *Practices of Commentary*. Institute for
-Advanced Study & University of Toronto. (online). 2021.
+“Vedānta Commentaries: Between Continuity and Contemporary Practice,” with Elisa Freschi and Ajay Rao. *Practices of Commentary*. Institute for Advanced Study & University of Toronto. (online). 2021.
 
-“The Hermeneutics of Exclusion: Ritual Branding and Scholastic Practice in Sixteenth Century Vedānta.” 26th European Conference on South Asian
-Studies. (online). 2021.
+“The Hermeneutics of Exclusion: Ritual Branding and Scholastic Practice in Sixteenth Century Vedānta.” 26th European Conference on South Asian Studies. (online). 2021.
 
-“Paean for a Critique of Heretics: Polemic and Community in Vādirāja’s *Pāṣaṇḍakhandanastotra*.” Annual Meeting of the American Academy of 
-Religion. San Diego, CA. 2019.
+“Paean for a Critique of Heretics: Polemic and Community in Vādirāja’s *Pāṣaṇḍakhandanastotra*.” Annual Meeting of the American Academy of Religion. San Diego, CA. 2019.
 
 "Critique and Catharsis in Western Kanara: The Anti-Jain Writings of Vādirāja Tīrtha.” 48th Annual Conference on South Asia. Madison, WI. 2019.
 
@@ -64,16 +62,13 @@ Teaching South Asian Religions. University of Toronto Mississauga. Mississauga, 
 
 “Mādhava the Many: Disambiguating Mādhava, Vidyāraṇya, and Bhāratītīrtha.” *Age of Vedānta Research Intensive.* Vancouver, BC. 2018.
 
-“Delinquency and Dereliction in the Śāstras: Linguistic Authority in Early Modern Vedānta Polemic.” 17th World Sanskrit Conference. Vancouver,
-BC.
+“Delinquency and Dereliction in the Śāstras: Linguistic Authority in Early Modern Vedānta Polemic.” 17th World Sanskrit Conference. Vancouver, BC. 2017.
 
 "Situating Arguments Against the Vaiṣṇava Initiation Practice of Ritual Branding.” 46th Annual Conference on South Asia. Madison, WI. 2017.
 
 “Circumscribing Vaidikatva: Eligibility and the Language of Exclusion in Early Modern Religious Polemic.” 4th Biennial Conference on 
 South Asian Religions. University of Toronto. Toronto, ON. 2017.
 
-“Censure in Circulation: Tracing the Movement of Polemic Literature in Early Modern India.” Society for the History of Authorship, Reading, and 
-Publishing (SHARP). University of Victoria. Victoria, BC. 2017.
+“Censure in Circulation: Tracing the Movement of Polemic Literature in Early Modern India.” Society for the History of Authorship, Reading, and Publishing (SHARP). University of Victoria. Victoria, BC. 2017.
 
-“Economies of Speech: Patronage and Polemic in Early Modern India.” Canadian Society for the Study of Religion (CSSR)/Société Canadienne pour 
-l’étude de la religion Annual Meeting, Congress of the Social Sciences and Humanities. Ryerson University. Toronto, ON. 2017.
+“Economies of Speech: Patronage and Polemic in Early Modern India.” Canadian Society for the Study of Religion (CSSR)/Société Canadienne pour l’étude de la religion Annual Meeting, Congress of the Social Sciences and Humanities. Ryerson University. Toronto, ON. 2017.
