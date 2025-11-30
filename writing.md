@@ -8,7 +8,7 @@ title: Writing
 ---
 
 
-*Polemic and Authority in Early Modern South Asia*. (in progress)
+*Polemic and Power in Early Modern South Asia*. (in progress)
 
 ---
 ## refereed journal articles
