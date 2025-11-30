@@ -35,6 +35,8 @@ Study of Developing Societies. New Delhi, India. 2023.
 ## conference papers
 ---
 
+“Reflections on Somadeva’s *Yaśastilaka*.” 53rd Annual Conference on South Asia. Madison, WI. 2025
+
 “Memory, Conflict, Authority: Kumārila on Smṛtiprāmāṇya.” 2nd Annual Conference on Kumārila. University of Toronto. Toronto, ON. 2025.
 
 "The Literary Underground of Mughal Benares." 52nd Annual Conference on South Asia. Madison, WI. 2024.
