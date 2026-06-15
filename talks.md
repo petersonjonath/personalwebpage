@@ -7,6 +7,10 @@ title: Talks
 ## invited lectures
 ---
 
+"Political Philosophy and Medieval Jain Poetry." Annual Mahavira Nirvana Lecture in Jainism. Florida International University. 2026
+
+"The Low-Life of Literature in Mughal India." Annual welcome lecture of the Medieval and Renaissance Studies Program. Columbia University. 2026.
+
 "Philology for the Living and the Dead." University Seminar on World Philology. Columbia University. 2025.
 
 "Disfiguring the Divine: Vyāsa's Body between Polemic and Procession." University Seminar on Writing and Religion, Columbia University. 2024.
