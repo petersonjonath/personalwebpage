@@ -8,16 +8,16 @@ title: Writing
 ---
 
 
-*Polemic and Power in Early Modern South Asia*. (in progress)
+*Polemic and Power in Early Modern South Asia* (University of California Press). (Forthcoming)
 
 ---
 ## refereed journal articles
 ---
 
 
-“The Loves of Others: The Poetics of Hindu-Muslim Romance in Mughal Benares.” (in progress)
+“The Poetics of Hindu-Muslim Romance in Mughal Benares.” (in progress)
 
-“Hermeneutics of Hierarchy: Taptamudrā and the Question of Śūdra Liberation.” *New Explorations in South 
+“Hermeneutics of Hierarchy: Taptamudrā and the Question of Subaltern Liberation.” *New Explorations in South 
 Asian Research.* (under review)
 
 "Desecrating the Divine: Vyāsa’s Body between Polemic and Procession,” *New Explorations in South Asian 
@@ -48,6 +48,8 @@ Asian Intellectual History* 1, no. 2 (2018). [155–182](https://brill.com/view/
 ## refereed book chapters
 ---
 
+"Memory, Authority, Conflict: Kumārila on *Smṛtiprāmāṇya*," in *The Kumārila Reader* edited by Elisa Freschi and Nilanjan Das (forthcoming)
+
 “Courtly Debate in History and Memory.” In *The Age of Vedānta*, edited by Lawrence McCrea and Ajay Rao. (forthcoming)
 
 
@@ -55,6 +57,8 @@ Asian Intellectual History* 1, no. 2 (2018). [155–182](https://brill.com/view/
 ## book reviews
 ---
 
-Review of *The Language of History: Sanskrit Narratives of Indo-Muslim Rule*, by Audrey Truschke. *Journal 
+*The Meeting of Rivers: Translating Religion in Early Modern India* by Elaine Fisher (Oxford University Press). *History of Religions*._
+
+*The Language of History: Sanskrit Narratives of Indo-Muslim Rule* by Audrey Truschke (Columbia University Press). *Journal 
 of Hindu Studies*. [(2024)](https://academic.oup.com/jhs/advance-article-abstract/doi/10.1093/jhs/hiad028/7564871?redirectedFrom=fulltext).
 
